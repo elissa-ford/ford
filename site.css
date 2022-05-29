@@ -1,0 +1,107 @@
+body{
+    background-color: whitesmoke;
+}
+#kimu{
+display: grid;
+grid-template-columns: 3fr 2fr 4fr 3fr 2fr 2fr;
+grid-template-rows: 3fr 2fr 4fr 3fr 2fr 2fr;
+padding-top: 1%;
+font-family: sans-serif;
+width: 80%;
+height: 70%;
+}
+.shoose{
+background-color: blueviolet;
+
+}
+.way{
+    width: 80%;
+    height: 60%;
+    border-radius: 10px;
+    padding-top: 3%;
+}
+.one{
+    background-color: burlywood;
+}
+.system{
+    background-color: cadetblue;
+}
+.kabiri{
+    background-color: chartreuse;
+}
+.gatatu{
+background-color: crimson;
+}
+.six{
+    background-color: coral;
+}
+h1{
+    color: blueviolet ;
+}
+.eliin{
+    display: flex;
+    flex-direction: row;
+}
+#mynew{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+  padding-right: 15%;
+  padding-left: 9%;
+  padding-top: 5%;
+}
+#mynew img{
+    width: 20%;
+    height: 15%;
+    border-radius: 20px;
+}
+#mynew p{
+    padding-right: 15%;
+    padding-left: 7%; 
+   line-height: 2rem;
+}
+span{
+    color: red;
+}
+#profile{
+    justify-content: center;
+}
+#profile p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+.ford{
+    display: flex;
+    flex-direction: row;
+    padding-top: 2%;
+}
+.images{
+    padding-top: -1%;
+}
+.ford h1{
+    color: rgb(6, 6, 105);
+    padding-left: 2%;
+    padding-top: -5%;
+}
+.ford img{
+    height: 10%;
+    padding-top: 2%;
+}
+#new {
+    display: flex;
+    justify-content: center;
+    padding-left: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 15%;
+}
+#new img{
+    width: 25%;
+    height: 30%;
+    padding-right: 10%;
+    padding-top: 2%;
+}
+#new p{
+    padding-top: 2%;
+    align-items: center;
+    line-height: 2rem;
+}
